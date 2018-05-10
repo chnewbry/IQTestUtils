@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'IQTestUtils_Example' do
+  pod 'IQTestUtils', :path => '../'
+
+  target 'IQTestUtils_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
