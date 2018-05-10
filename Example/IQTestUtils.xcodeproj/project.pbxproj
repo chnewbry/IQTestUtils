@@ -31,7 +31,7 @@
 		22837FF8804B724387E8800D /* Pods_IQTestUtils_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_IQTestUtils_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3AE677D9C51B1D483E6EF06F /* Pods-IQTestUtils_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IQTestUtils_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-IQTestUtils_Tests/Pods-IQTestUtils_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		4195BBF3F943055A68E198E2 /* Pods_IQTestUtils_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_IQTestUtils_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		552568965D23AB72BE6183C7 /* IQTestUtils.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = IQTestUtils.podspec; path = ../IQTestUtils.podspec; sourceTree = "<group>"; };
+		552568965D23AB72BE6183C7 /* IQTestUtils.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = IQTestUtils.podspec; path = ../IQTestUtils.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		607FACD01AFB9204008FA782 /* IQTestUtils_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IQTestUtils_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -42,11 +42,11 @@
 		607FACE51AFB9204008FA782 /* IQTestUtils_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IQTestUtils_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		6934C7A19694E8F4983A565F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		6934C7A19694E8F4983A565F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		9BAB6CB7E12B82977CE3E68F /* Pods-IQTestUtils_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IQTestUtils_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-IQTestUtils_Example/Pods-IQTestUtils_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		C0648074D00F5EA176D186C6 /* Pods-IQTestUtils_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IQTestUtils_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-IQTestUtils_Example/Pods-IQTestUtils_Example.release.xcconfig"; sourceTree = "<group>"; };
 		E62666CA3DF94A27089A9418 /* Pods-IQTestUtils_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IQTestUtils_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-IQTestUtils_Tests/Pods-IQTestUtils_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		F4A7151AD976C55000AD4909 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		F4A7151AD976C55000AD4909 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

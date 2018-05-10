@@ -1,0 +1,16 @@
+PODS:
+  - IQTestUtils (0.1.0)
+
+DEPENDENCIES:
+  - IQTestUtils (from `../`)
+
+EXTERNAL SOURCES:
+  IQTestUtils:
+    :path: ../
+
+SPEC CHECKSUMS:
+  IQTestUtils: 434f91482bc69a845cba8e91a30e6157010362f7
+
+PODFILE CHECKSUM: 9e42abb57fffa2023f8ed7e9ed01dc8b3c7ec11b
+
+COCOAPODS: 1.4.0

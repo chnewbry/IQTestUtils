@@ -31,6 +31,8 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'IQTestUtils/Classes/**/*'
+
+  s.dependency 'iOSSnapshotTestCase'
   
   # s.resource_bundles = {
   #   'IQTestUtils' => ['IQTestUtils/Assets/*.png']
