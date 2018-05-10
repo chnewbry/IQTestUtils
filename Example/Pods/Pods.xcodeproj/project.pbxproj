@@ -483,7 +483,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/IQTestUtils/IQTestUtils-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/IQTestUtils/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/IQTestUtils/IQTestUtils.modulemap";
 				PRODUCT_NAME = IQTestUtils;
@@ -669,7 +669,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/IQTestUtils/IQTestUtils-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/IQTestUtils/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/IQTestUtils/IQTestUtils.modulemap";
 				PRODUCT_NAME = IQTestUtils;
