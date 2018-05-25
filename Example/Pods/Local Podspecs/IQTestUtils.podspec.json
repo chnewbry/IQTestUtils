@@ -16,9 +16,12 @@
     "tag": "0.1.3"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "8.1"
   },
   "source_files": "IQTestUtils/Classes/**/*",
+  "xcconfig": {
+    "FRAMEWORK_SEARCH_PATHS": "$(PLATFORM_DIR)/Developer/Library/Frameworks"
+  },
   "dependencies": {
     "iOSSnapshotTestCase": [
 

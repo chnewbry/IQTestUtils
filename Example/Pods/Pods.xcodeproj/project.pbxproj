@@ -91,25 +91,25 @@
 		4492739CF8A66B42C9C83A6F8192EBB0 /* IQTestUtils.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = IQTestUtils.xcconfig; sourceTree = "<group>"; };
 		4581B3A9D37B57DBCEFFEBA89D57FF9F /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		47A06BC60E9D928FA32A615C5A7756B6 /* Pods-IQTestUtils_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-IQTestUtils_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		4866AF4440B2C28E2CD2535767349454 /* Pods_IQTestUtils_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_IQTestUtils_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4866AF4440B2C28E2CD2535767349454 /* Pods_IQTestUtils_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_IQTestUtils_Tests.framework; path = "Pods-IQTestUtils_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4BE96488CE7E67A59A9CE08C0BA5E120 /* Pods-IQTestUtils_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-IQTestUtils_Example-dummy.m"; sourceTree = "<group>"; };
 		4F4EF80453B035C9F891683AFA871BB7 /* UIImage+Diff.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Diff.h"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.h"; sourceTree = "<group>"; };
-		4FEC70752250EA8F81FCB587F49C08DF /* Pods_IQTestUtils_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_IQTestUtils_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4FEC70752250EA8F81FCB587F49C08DF /* Pods_IQTestUtils_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_IQTestUtils_Example.framework; path = "Pods-IQTestUtils_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		572A398218005B24D9BA328423F6704E /* Pods-IQTestUtils_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-IQTestUtils_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		696662251F9DC0679DD4D4A344EFFF66 /* IQTestUtils.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = IQTestUtils.modulemap; sourceTree = "<group>"; };
 		6D2DAAF215084A8B1A94F00DF6E99CB2 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6DD77FF51C7610CBCE803C070C3DFB4D /* Pods-IQTestUtils_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-IQTestUtils_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		72A5A5A28F46E435D0744BF70321B932 /* IQTestUtils.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = IQTestUtils.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		72A5A5A28F46E435D0744BF70321B932 /* IQTestUtils.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = IQTestUtils.framework; path = IQTestUtils.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7A78C7948447912D2AD32E0E890818A4 /* UIApplication+StrictKeyWindow.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIApplication+StrictKeyWindow.h"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.h"; sourceTree = "<group>"; };
-		80C6F7107475EFBE7557D5D0B5AE49B7 /* IQTestUtils.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = IQTestUtils.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		80C6F7107475EFBE7557D5D0B5AE49B7 /* IQTestUtils.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = IQTestUtils.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		86D76F56E6C911435EFC5FBC6DD104EC /* UIApplication+StrictKeyWindow.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIApplication+StrictKeyWindow.m"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.m"; sourceTree = "<group>"; };
 		8745BA5233797B3BF3603CCCD072A103 /* SwiftSupport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftSupport.swift; path = FBSnapshotTestCase/SwiftSupport.swift; sourceTree = "<group>"; };
 		8A805FDEF8E09EB365EC561A920203A8 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/QuartzCore.framework; sourceTree = DEVELOPER_DIR; };
-		8A9045B62E1C962F4F206A8028D98144 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		8A9045B62E1C962F4F206A8028D98144 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		8D7902A99CD377F67AD79EB6D86D0D2B /* iOSSnapshotTestCase.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = iOSSnapshotTestCase.xcconfig; sourceTree = "<group>"; };
-		8EFEFF4FB6381B8913DD36AC34B0A479 /* FBSnapshotTestCase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FBSnapshotTestCase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9532F9D7386DC803D99398A9BAFDE21B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		8EFEFF4FB6381B8913DD36AC34B0A479 /* FBSnapshotTestCase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FBSnapshotTestCase.framework; path = iOSSnapshotTestCase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9532F9D7386DC803D99398A9BAFDE21B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		988B8C3EEFDB4F5AB0E19BC1FF693522 /* Pods-IQTestUtils_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-IQTestUtils_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		99C917DCC9A6A284BDF1284F676BFFCB /* Pods-IQTestUtils_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-IQTestUtils_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		A5533C6E8B93A90647B01358EC9F764F /* UIImage+Diff.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Diff.m"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.m"; sourceTree = "<group>"; };
@@ -347,6 +347,7 @@
 				A6C3E4EDCD5B36BA1A957A9859896C6B /* Support Files */,
 				A9B6C68F8EA5F415EEE369BC51AEB83F /* SwiftSupport */,
 			);
+			name = iOSSnapshotTestCase;
 			path = iOSSnapshotTestCase;
 			sourceTree = "<group>";
 		};
@@ -619,38 +620,6 @@
 			};
 			name = Release;
 		};
-		1DBF7D92124F72FFF49DF241EA871C3E /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4492739CF8A66B42C9C83A6F8192EBB0 /* IQTestUtils.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/IQTestUtils/IQTestUtils-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/IQTestUtils/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/IQTestUtils/IQTestUtils.modulemap";
-				PRODUCT_MODULE_NAME = IQTestUtils;
-				PRODUCT_NAME = IQTestUtils;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		245C742EAF03CFCA0B24B0507B0AFE65 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 3D5AA8EF8238831B128F13687253C880 /* Pods-IQTestUtils_Tests.debug.xcconfig */;
@@ -685,6 +654,39 @@
 			};
 			name = Debug;
 		};
+		3C25D8DB5535E841A6115CEF63BB23CA /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4492739CF8A66B42C9C83A6F8192EBB0 /* IQTestUtils.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/IQTestUtils/IQTestUtils-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/IQTestUtils/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/IQTestUtils/IQTestUtils.modulemap";
+				PRODUCT_MODULE_NAME = IQTestUtils;
+				PRODUCT_NAME = IQTestUtils;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 		3D869A3533D483677661792BC503C4F1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 3FBA6689543AA8C2F65E19DD3E803A85 /* Pods-IQTestUtils_Example.release.xcconfig */;
@@ -714,39 +716,6 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		44CE6C2278167A234C6A6DE8AAE95903 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4492739CF8A66B42C9C83A6F8192EBB0 /* IQTestUtils.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/IQTestUtils/IQTestUtils-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/IQTestUtils/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/IQTestUtils/IQTestUtils.modulemap";
-				PRODUCT_MODULE_NAME = IQTestUtils;
-				PRODUCT_NAME = IQTestUtils;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -907,6 +876,38 @@
 			};
 			name = Debug;
 		};
+		7FC1F448488337C8E34A3A61EE1194B8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4492739CF8A66B42C9C83A6F8192EBB0 /* IQTestUtils.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/IQTestUtils/IQTestUtils-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/IQTestUtils/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/IQTestUtils/IQTestUtils.modulemap";
+				PRODUCT_MODULE_NAME = IQTestUtils;
+				PRODUCT_NAME = IQTestUtils;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 		B388E863DBAF3B9103127464432735F9 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D144B1C21DFFFED5E74EB3E424468A8C /* Pods-IQTestUtils_Tests.release.xcconfig */;
@@ -993,8 +994,8 @@
 		15B8522E168EA4E5C3020F451A2B5E92 /* Build configuration list for PBXNativeTarget "IQTestUtils" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1DBF7D92124F72FFF49DF241EA871C3E /* Debug */,
-				44CE6C2278167A234C6A6DE8AAE95903 /* Release */,
+				7FC1F448488337C8E34A3A61EE1194B8 /* Debug */,
+				3C25D8DB5535E841A6115CEF63BB23CA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
